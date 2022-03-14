@@ -15,7 +15,7 @@
 
 
 ## 1｜為什麼我建立這個平台 :thought_balloon:
-- 2022年了！Designer依然沒有share knowledage mangement system 的 article，連 catalog 也沒人寫過，令我感覺到設計產業在知識傳播上非常落後
+- 2022年了！ Designer 依然沒有 share knowledage mangement system 的 article ，連 catalog 也沒人寫過，令我感覺到設計產業在知識傳播上非常落後
 ![Link](https://serving.photos.photobox.com/298453629c4083ec4024818101fc45dad92da7839d5ebd9398c39b67fb550af2addc5adc.jpg "Don't want design become a backward industry")
 - 由於設計師缺少可互動交流的平台，令知識傳播困難。很多時都是遇上問題，才臨時上網 ask Google sir，我希望各位能在遇上問題前就能避免，特別是缺少工作經驗的學生
 - 現今是 Digital era (數碼世代)，不少設計師在網上學習，但學習後缺乏一個系统性的整理
