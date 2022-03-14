@@ -28,8 +28,8 @@
    - 設計師職業路向和其要求 Designer Carrer path & requirement
    - 設計技術性知識 Design technical technical knowledge
    - 人事相處、工作文化 working environment culture
-   - 設計以外，設計師需要知道的知識 
-apart from design knowledge, what designers need to know
+   - 設計技術以外，設計師需要知道的知識 
+apart from design technical knowledge, what designers need to know
   
 ## 3｜什麼使這個平台 Stand out :thought_balloon:
 - 集合了各方美術人士意見，不單只有設計師意見，令思考設計的角度不單人
