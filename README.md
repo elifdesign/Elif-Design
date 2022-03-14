@@ -3,15 +3,15 @@
 
 ### *目錄*
 
-[1｜為什麼我建立這個平台](https://github.com/elifdesign/Elif-Design/edit/main/README.md#1%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E5%BB%BA%E7%AB%8B%E9%80%99%E5%80%8B%E5%B9%B3%E5%8F%B0-thought_balloon)
+[1｜為什麼我建立這個平台](https://github.com/elifdesign/Elif-Design#1%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E5%BB%BA%E7%AB%8B%E9%80%99%E5%80%8B%E5%B9%B3%E5%8F%B0-thought_balloon)
 
-[2｜這個平台能解決什麼問題](https://github.com/elifdesign/Elif-Design/edit/main/README.md#2%E9%80%99%E5%80%8B%E5%B9%B3%E5%8F%B0%E8%83%BD%E8%A7%A3%E6%B1%BA%E4%BB%80%E9%BA%BC%E5%95%8F%E9%A1%8C-thought_balloon)
+[2｜這個平台能解決什麼問題](https://github.com/elifdesign/Elif-Design#2%E9%80%99%E5%80%8B%E5%B9%B3%E5%8F%B0%E8%83%BD%E8%A7%A3%E6%B1%BA%E4%BB%80%E9%BA%BC%E5%95%8F%E9%A1%8C-thought_balloon)
 
-[3｜什麼使這個平台 Stand out](https://github.com/elifdesign/Elif-Design/edit/main/README.md#3%E4%BB%80%E9%BA%BC%E4%BD%BF%E9%80%99%E5%80%8B%E5%B9%B3%E5%8F%B0-stand-out-thought_balloon)
+[3｜什麼使這個平台 Stand out](https://github.com/elifdesign/Elif-Design#3%E4%BB%80%E9%BA%BC%E4%BD%BF%E9%80%99%E5%80%8B%E5%B9%B3%E5%8F%B0-stand-out-thought_balloon)
 
-[4｜平台之後會怎樣發展](https://github.com/elifdesign/Elif-Design/edit/main/README.md#4%E5%B9%B3%E5%8F%B0%E4%B9%8B%E5%BE%8C%E6%9C%83%E6%80%8E%E6%A8%A3%E7%99%BC%E5%B1%95-thought_balloon)
+[4｜平台之後會怎樣發展](https://github.com/elifdesign/Elif-Design#4%E5%B9%B3%E5%8F%B0%E4%B9%8B%E5%BE%8C%E6%9C%83%E6%80%8E%E6%A8%A3%E7%99%BC%E5%B1%95-thought_balloon)
 
-[5｜如何支持平台(暫未開放)](https://github.com/elifdesign/Elif-Design/edit/main/README.md#5%E5%A6%82%E4%BD%95%E6%94%AF%E6%8C%81%E5%B9%B3%E5%8F%B0%E6%9A%AB%E6%9C%AA%E9%96%8B%E6%94%BE-thought_balloon)
+[5｜如何支持平台(暫未開放)](https://github.com/elifdesign/Elif-Design#5%E5%A6%82%E4%BD%95%E6%94%AF%E6%8C%81%E5%B9%B3%E5%8F%B0%E6%9A%AB%E6%9C%AA%E9%96%8B%E6%94%BE-thought_balloon)
 
 
 ## 1｜為什麼我建立這個平台 :thought_balloon:
