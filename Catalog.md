@@ -7,8 +7,9 @@ P((Output <br> Process))
 style P fill:#3B0FEE,stroke:#14027E,stroke-width:4px
 Q[/Input Process/]
 style Q fill:#0F6F00,stroke:#0D5C00,stroke-width:4px
-U{{Additional knowledge}}
+U{{ Additional knowledge }}
 style U fill:#C60000,stroke:#9A0808,stroke-width:4px
+
 ```
 ## Design Process
 ```mermaid
