@@ -42,7 +42,7 @@ style L fill:#3B0FEE,stroke:#14027E,stroke-width:4px
 L --> M{Final <br> Design version <br> confirmation}
 M -.If you can't do it in the previous stage.-> N(Get other output requirement)
 style N fill:#3B0FEE,stroke:#14027E,stroke-width:4px
-N --> O[/Review the whold project/]
+N --> O[/Review the whole project/]
 style O fill:#0F6F00,stroke:#0D5C00,stroke-width:4px
 ```
 
