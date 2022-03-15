@@ -9,7 +9,7 @@ Q[/Input Process/]
 style Q fill:#0F6F00,stroke:#0D5C00,stroke-width:4px
 U{{ Additional knowledge }}
 style U fill:#C60000,stroke:#9A0808,stroke-width:4px
-click U "##additional-knowledge"
+click U "https://github.com/elifdesign/Elif-Design/edit/main/Catalog.md#additional-knowledge"
 ```
 ## Design Process
 ```mermaid
