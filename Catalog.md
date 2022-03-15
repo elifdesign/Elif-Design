@@ -27,7 +27,7 @@ style E fill:#3B0FEE,stroke:#14027E,stroke-width:4px
 E --> F{Group / <br> Personal <br> Decision}
 F --> |after confirmed the ideas have resources to run| G(Planning)
 style G fill:#3B0FEE,stroke:#14027E,stroke-width:4px
-G --> H[/Get /set Design requirement/]
+G --> H[/Get or set Design requirement/]
 style H fill:#0F6F00,stroke:#0D5C00,stroke-width:4px
 G -.If you can do it in this stage.-> I[/Output Requirement/]
 style I fill:#0F6F00,stroke:#0D5C00,stroke-width:4px
