@@ -24,9 +24,9 @@
 你再跟據他們的要求單整作設計。
 
 ## Tools (Useful Website / software)
-example 1 : Job form
+example 1 : Jotform
 
-如果你的公司沒有購買 Project management tool 的情況下，Job form 是一個不錯的網站
+如果你的公司沒有購買 Project management tool 的情況下，Jotform 是一個不錯的網站
 
 1. 開了帳號後，可以輸入 Design Request form 去 Search
 ![Imgur](https://i.imgur.com/R2FHiZh.jpg)
